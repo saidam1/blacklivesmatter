@@ -34,6 +34,11 @@ Concept: We will be using Sentiment Analysis to analyze our data
 * Once we have these datas, we will then use polarity and subjectivity to check if these mentions in the data were positive or negative
 * After recieving them we will then compare the sentiment analysis of all four datas 
 
+### Motivation
+
+* People have different opinions. Some maybe the right one other probably not, but it is our own opinion. I personally do not see how people could be against the black lives matter movement. It is basically saying give us the basic human rights other races have. However, there are those who percive black lives matter as if others lives do not, and they have started other movements like all lives matter, and blue lives matter.
+* I was curious to see the the percentage of people that are for black lives matter or against it and if people support other movements more than they support black lives matter. I decided to do a sentiment analyisis to see how people use these statements and I wanted to compare them.
+
 ### Methods
 
 The methods that were used in order to do this project were:
