@@ -52,4 +52,4 @@ The methods that were used in order to do this project were:
 We used Python 3.0 via Anaconda.
 
 ### Jupyter Notebook Link
-
+https://github.com/saidam1/blacklivesmatter/blob/main/Technical%20Notebook.py
