@@ -8,14 +8,16 @@
 
 # Overview
 
+There have been many racial tensions that have caused the outbrust of trends like Black Lives Matter. However, there are people that are aginst having a trend just for Black Lives Matter, and have started their own trends of things like White Lives Matter, Blue Lives Matter, and All Lives Matter.
+There are many articles talking about how these other trends could be considered racist like this article about Why Blue Lives Matter is racist. https://www.the-sun.com/news/992088/blue-lives-matter-racist-flag-blm-protests/
 Twitter API allows us to contribute to, engage with, and analyze the conversations that are happening on Twitter.
-This project will be analyzing how people feel about the black live smatter trend, and if they prefer the counters of this trend like all lives matter.
+This project will be analyzing how people feel about the black live smatter trend, and if they prefer the counters of this trend like all lives matter according to TextBlob.
 
 ## Read-Me-Outline
 
 * Goals
 * Motivation
-* Methods
+* Packages
 * Data
 * Conclusions
 * Github Navigatioins
@@ -27,10 +29,10 @@ Tools: We will be using the Twitter API to obtain our data
 Concept: We will be using Sentiment Analysis to analyze our data
 
 * We will first get 100 datas from twitter that mention: 
-    ** blacklivesmatter
-    ** alllivesmatter
-    ** whitelivesmatter
-    ** bluelivesmatter
+      * blacklivesmatter
+      * alllivesmatter
+      * whitelivesmatter
+      * bluelivesmatter
 * Once we have these datas, we will then use polarity and subjectivity to check if these mentions in the data were positive or negative
 * After recieving them we will then compare the sentiment analysis of all four datas 
 
@@ -39,7 +41,7 @@ Concept: We will be using Sentiment Analysis to analyze our data
 * People have different opinions. Some maybe the right one other probably not, but it is our own opinion. I personally do not see how people could be against the black lives matter movement. It is basically saying give us the basic human rights other races have. However, there are those who percive black lives matter as if others lives do not, and they have started other movements like all lives matter, and blue lives matter.
 * I was curious to see the the percentage of people that are for black lives matter or against it and if people support other movements more than they support black lives matter. I decided to do a sentiment analyisis to see how people use these statements and I wanted to compare them.
 
-### Methods
+### Packages
 
 The methods that were used in order to do this project were:
  * matplotlib
@@ -48,3 +50,6 @@ The methods that were used in order to do this project were:
  * textblob
  * re
 We used Python 3.0 via Anaconda.
+
+### Jupyter Notebook Link
+
